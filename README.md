@@ -1,3 +1,9 @@
+## Use New Repository
+
+Please use new repository: [HuzunluArtemis/MirrorLeechTelegramBot](https://github.com/HuzunluArtemis/MirrorLeechTelegramBot) This repository is only for developing.
+
+## About
+
 This is a Telegram Bot written in Python for mirroring files on the Internet to your Google Drive or Telegram. Based on [python-aria-mirror-bot](https://github.com/lzzy12/python-aria-mirror-bot) and [mirror-leech-telegram-bot](https://github.com/anasty17/mirror-leech-telegram-bot). Written with [python-telegram-bot](https://github.com/python-telegram-bot/python-telegram-bot) telagram api.
 
 # Features:
